@@ -1,0 +1,1 @@
+ minimum=min(minimum,final[i-1]+g-final[i]);
